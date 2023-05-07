@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.head{
+    text-align: center;
+    color: gray;
+    font-style: italic;
+}
